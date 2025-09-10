@@ -4,7 +4,6 @@
 <h3 align="center">I'm currently a student at University of Information Technology - Vietnam National University</h3>
 
 - ⚡ My major is **Information System**
-- 🌱 I’m currently learning **Database and Backend Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
